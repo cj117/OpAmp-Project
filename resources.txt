@@ -1,10 +1,3 @@
 https://www.electronicshub.org/ic-741-op-amp-basics/
 https://www.analog.com/en/analog-dialogue/articles/current-output-circuit-techniques-add-versatility.html#
 https://www.youtube.com/watch?v=Jmu02dErhdg
-Operational Amplifiers are electronic devices known for their wide range of applications. Some characteristics of this circuit, such as:\newline
-    1. High input and low output impedance\newline
-    2. High gain values\newline
-    3. Different modes of operation\newline
-    etc. make them an important part in IC design\newline \newline
-    This project aims to create a simple Op-Amp design to be used as a high gain buffer using 180nm CMOS technology.
-    AIM-SPICE software will be used to design and simulate this circuit. 
